@@ -1,5 +1,4 @@
-# nuestrapaginaweb
-pagina web sobre videojuegos 
+# nuestrapaginaweb 
 <html lang="es">
 <head>
     <style>
